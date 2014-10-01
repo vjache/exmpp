@@ -1,6 +1,12 @@
 Exmpp is an Erlang application which provides the modules to ease the
 development of an XMPP/Jabber server or client.
 
+# About this fork
+This fork includes the following PR's from the original repository:
+
+- [#16](https://github.com/processone/exmpp/pull/16) Adds Rebar
+- [#14](https://github.com/processone/exmpp/pull/14) Updated README
+
 # Table of contents #
 
  1. Requirements
